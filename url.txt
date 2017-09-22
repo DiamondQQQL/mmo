@@ -1,0 +1,5 @@
+area:服务器：WX(1)，QQ(2)，游客(3)
+platid:平台：IOS(0)，Android(1)
+partition:区
+openid:openid
+charac_no:角色ID
